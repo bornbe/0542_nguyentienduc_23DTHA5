@@ -1,0 +1,11 @@
+R:\code\C#\BT3Listview\BT3Listview\bin\Debug\BT3Listview.exe.config
+R:\code\C#\BT3Listview\BT3Listview\bin\Debug\BT3Listview.exe
+R:\code\C#\BT3Listview\BT3Listview\bin\Debug\BT3Listview.pdb
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.csproj.AssemblyReference.cache
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.ListviewDemo.resources
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.Properties.Resources.resources
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.csproj.GenerateResource.cache
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.csproj.CoreCompileInputs.cache
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.exe
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.pdb
+R:\code\C#\BT3Listview\BT3Listview\obj\Debug\BT3Listview.exe.config
